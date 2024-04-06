@@ -21,7 +21,7 @@ promotionId: se.id,
 completed: 1
 ```
 
-# Analitycs
+# Telemetry
 <p align="center">Decided to make an seperate category for this, for now its an spyware :3</p>
 
 ## https://analytics.lunarclientprod.com/launcher/event
